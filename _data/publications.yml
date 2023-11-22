@@ -1,22 +1,73 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: ICLR
+    conference: International Conference on Learning Representations (ICLR), 2024.
+    pdf: https://openreview.net/forum?id=s9z0HzWJJp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_sociodojo.png
+    notes: Under Review (Avg. Rating 6.33)
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Bridging Neural and Symbolic Representations with Transitional Dictionary Learning"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: ICLR
+    conference: International Conference on Learning Representations (ICLR), 2024.
+    pdf: https://openreview.net/forum?id=uqxBTcWRnj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_tdl.png
+    notes: Under Review (Avg. Rating 6.50)
+
+  - title: "Physics Informed Synthetic Image Generation for Deep Learning-Based Detection of Wrinkles and Folds"
+    authors: Omey M Manyar, Junyan Cheng, Reuben Levine, Vihan Krishnan, Jernej Barbič, Satyandra K Gupta
+    conference_short: JCISE
+    conference: Journal of Computing and Information Science in Engineering
+    pdf: https://www.researchgate.net/profile/Omey-Manyar/publication/369142564_PHYSICS_INFORMED_SYNTHETIC_IMAGE_GENERATION_FOR_DEEP_LEARNING_BASED_DETECTION_OF_WRINKLES_AND_FOLDS/links/640b7df7a1b72772e4eb1120/PHYSICS-INFORMED-SYNTHETIC-IMAGE-GENERATION-FOR-DEEP-LEARNING-BASED-DETECTION-OF-WRINKLES-AND-FOLDS.pdf
+    code: https://github.com/RROS-Lab/DeepSynthDefectDetector
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_layup.png
+    notes: Best Paper Award at ASME IDETC 2022
+
+  - title: "Multimodal Phased Transformer for Sentiment Analysis"
+    authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm, Mohammad Soleymani
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing, 2021.
+    pdf: https://aclanthology.org/2021.emnlp-main.189.pdf
+    code: https://github.com/chengjunyan1/SP-Transformer
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_spt.png
+    notes: Long Paper
+
+  - title: "Graph Conditioned Sparse-Attention for Improved Source Code Understanding"
+    authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2112.00663
+    pdf: https://arxiv.org/pdf/2112.00663.pdf
+    code: https://github.com/chengjunyan1/Graph-Sparse-Transformer
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_gst.png
+    # notes: Long Paper
+
+  - title: "GN-Transformer: Fusing Sequence and Graph Representation for Improved Code Summarization"
+    authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2111.08874
+    pdf: https://arxiv.org/pdf/2111.08874.pdf
+    code: https://github.com/chengjunyan1/GN-Transformer-AST
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_gnt.png
+    # notes: Long Paper
+
+  - title: "Predicting microRNA-disease associations using bipartite local models and hubness-aware regression"
+    authors: Xing Chen, Junyan Cheng, Jun Yin
+    journal: RNA biology
+    pdf: https://www.tandfonline.com/doi/pdf/10.1080/15476286.2018.1517010
+    code: https://github.com/BLHARMDA/Bipartite-Local-Models-and-hubness-aware-regression
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_blharmda.png
+    # notes: Long Paper
+
+
+
