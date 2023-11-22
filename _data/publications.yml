@@ -8,7 +8,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     demo: https://gam-gray.vercel.app/
     image: ./assets/img/teaser_sociodojo.png
-    notes: Under Review (Avg. Rating 6.33)
+    notes: Under Review (Avg. Rating 7.00)
 
   - title: "Bridging Neural and Symbolic Representations with Transitional Dictionary Learning"
     authors: Junyan Cheng, Peter Chin
