@@ -8,9 +8,9 @@ I am a second-year Ph.D. student at Dartmouth College. My specialization is on d
 
 ## Research Interests
 
-- **Lifelong LLM Socio-Agents:** Human-in-loop lifelong LLM agents for real society work like asset management.
-- **Compositional Representation:** Compositional reusable representation for hierarchical and mixed memory.
-- **Neural-Symbolic Learning:** Hybrid Intelligent System that incorporates expert tools into agent reasoning.
+- **Lifelong LLM Socio-Agents:** Human-in-loop lifelong LLM agents for real society like asset management.
+- **Compositional Representation:** Compositional reusable representation for hierarchical memory.
+- **Neural-Symbolic Learning:** Hybrid Intelligent System that incorporates expert tools into agents.
 
 <!-- ## News
 
