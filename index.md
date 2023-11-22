@@ -8,9 +8,9 @@ I am a second-year Ph.D. student at Dartmouth College.
 
 ## Research Interests
 
-- **Lifelong LLM Agents:** image recognition, image generation, video captioning
-- **Representation Learning:** meta-learning, incremental learning, transfer learning
-- **Neural-Symbolic Learning:** meta-learning, incremental learning, transfer learning
+- **Lifelong LLM Agents:** deep learning
+- **Representation Learning:** deep learning
+- **Neural-Symbolic Learning:** deep learning
 
 <!-- ## News
 
@@ -19,6 +19,6 @@ I am a second-year Ph.D. student at Dartmouth College.
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
