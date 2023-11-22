@@ -33,12 +33,12 @@ main:
   - title: "Multimodal Phased Transformer for Sentiment Analysis"
     authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm, Mohammad Soleymani
     conference_short: EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing, 2021.
+    conference: Conference on Empirical Methods in Natural Language Processing (Long Paper), 2021.
     pdf: https://aclanthology.org/2021.emnlp-main.189.pdf
     code: https://github.com/chengjunyan1/SP-Transformer
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_spt.png
-    notes: Long Paper
+    # notes: Long Paper
 
   - title: "Graph Conditioned Sparse-Attention for Improved Source Code Understanding"
     authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
@@ -62,7 +62,8 @@ main:
 
   - title: "Predicting microRNA-disease associations using bipartite local models and hubness-aware regression"
     authors: Xing Chen, Junyan Cheng, Jun Yin
-    journal: RNA biology
+    conference_short: RNA biology
+    conference: RNA biology
     pdf: https://www.tandfonline.com/doi/pdf/10.1080/15476286.2018.1517010
     code: https://github.com/BLHARMDA/Bipartite-Local-Models-and-hubness-aware-regression
     # bibtex: https://bib.yliu.me/MICCAI23.txt
