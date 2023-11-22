@@ -8,15 +8,15 @@ I am a second-year Ph.D. student at Dartmouth College. My specialization is on d
 
 ## Research Interests
 
-- **Lifelong LLM Socio-Agents:** Human-in-loop lifelong LLM agents for real society like asset management.
-- **Compositional Representation:** Compositional reusable representation for hierarchical memory.
-- **Neural-Symbolic Learning:** Hybrid Intelligent System that incorporates expert tools into agents.
+- **Lifelong LLM Socio-Agents:** Human-in-loop lifelong LLM agents for real society.
+- **Compositional Representation:** Hierarchical and mixed long-term memory system.
+- **Neural-Symbolic Learning:** Hybrid intelligent system that incorporates expert tools.
 
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Sep. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
