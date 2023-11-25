@@ -5,7 +5,6 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations (ICLR), 2024.
     pdf: https://openreview.net/forum?id=s9z0HzWJJp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
-    # code: https://github.com/MrGiovanni/ContinualLearning
     demo: https://gam-gray.vercel.app/
     image: ./assets/img/teaser_sociodojo.png
     notes: Under Review (Avg. Rating 7.00)
@@ -15,8 +14,6 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations (ICLR), 2024.
     pdf: https://openreview.net/forum?id=uqxBTcWRnj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_tdl.png
     notes: Under Review (Avg. Rating 6.50)
 
@@ -26,7 +23,6 @@ main:
     conference: Journal of Computing and Information Science in Engineering
     pdf: https://www.researchgate.net/profile/Omey-Manyar/publication/369142564_PHYSICS_INFORMED_SYNTHETIC_IMAGE_GENERATION_FOR_DEEP_LEARNING_BASED_DETECTION_OF_WRINKLES_AND_FOLDS/links/640b7df7a1b72772e4eb1120/PHYSICS-INFORMED-SYNTHETIC-IMAGE-GENERATION-FOR-DEEP-LEARNING-BASED-DETECTION-OF-WRINKLES-AND-FOLDS.pdf
     code: https://github.com/RROS-Lab/DeepSynthDefectDetector
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_layup.png
     notes: Best Paper Award at ASME IDETC-CIE 2022
 
@@ -36,9 +32,7 @@ main:
     conference: Conference on Empirical Methods in Natural Language Processing (EMNLP Long Paper), 2021.
     pdf: https://aclanthology.org/2021.emnlp-main.189.pdf
     code: https://github.com/chengjunyan1/SP-Transformer
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_spt.png
-    # notes: Long Paper
 
   - title: "Graph Conditioned Sparse-Attention for Improved Source Code Understanding"
     authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
@@ -46,10 +40,8 @@ main:
     conference: arXiv preprint arXiv:2112.00663
     pdf: https://arxiv.org/pdf/2112.00663.pdf
     code: https://github.com/chengjunyan1/Graph-Sparse-Transformer
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    acl2021review: https://drive.google.com/file/d/1B7JuWSKQnRc42HvG6BgJuH5mYdBD6DTU/view?usp=sharing
+    acl2021review: https://drive.google.com/file/d/1locy-LVEx6FbrPSuePn64Bch_K2ygfrI/view?usp=sharing
     image: ./assets/img/teaser_gst.png
-    # notes: Long Paper
 
   - title: "GN-Transformer: Fusing Sequence and Graph Representation for Improved Code Summarization"
     authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
@@ -57,9 +49,7 @@ main:
     conference: arXiv preprint arXiv:2111.08874
     pdf: https://arxiv.org/pdf/2111.08874.pdf
     code: https://github.com/chengjunyan1/GN-Transformer-AST
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_gnt.png
-    # notes: Long Paper
 
   - title: "Predicting microRNA-disease associations using bipartite local models and hubness-aware regression"
     authors: Xing Chen, Junyan Cheng, Jun Yin
@@ -67,9 +57,7 @@ main:
     conference: RNA biology
     pdf: https://www.tandfonline.com/doi/pdf/10.1080/15476286.2018.1517010
     code: https://github.com/BLHARMDA/Bipartite-Local-Models-and-hubness-aware-regression
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_blharmda.png
-    # notes: Long Paper
 
 
 
