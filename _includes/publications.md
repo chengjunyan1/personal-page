@@ -33,6 +33,9 @@
       {% if link.demo %} 
       <a href="{{ link.demo }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       {% endif %}
+      {% if link.acl2021review %} 
+      <a href="{{ link.acl2021review }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACL 2021 Review</a>
+      {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}

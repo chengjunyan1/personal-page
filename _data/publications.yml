@@ -47,6 +47,7 @@ main:
     pdf: https://arxiv.org/pdf/2112.00663.pdf
     code: https://github.com/chengjunyan1/Graph-Sparse-Transformer
     # bibtex: https://bib.yliu.me/MICCAI23.txt
+    acl2021review: https://drive.google.com/file/d/1B7JuWSKQnRc42HvG6BgJuH5mYdBD6DTU/view?usp=sharing
     image: ./assets/img/teaser_gst.png
     # notes: Long Paper
 
