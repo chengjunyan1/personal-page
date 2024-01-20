@@ -4,14 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student in deep learning at Dartmouth College. I study Large Language Model (LLM) based lifelong autonomous agents for real society with a focus on the user-in-the-loop **Autonomous Personal Asset Management**. I dive into compositional representation learning and neural symbolic learning to enhance the long-term memory and hybrid reasoning power of the agent. 
+I am a second-year Ph.D. student in deep learning at Dartmouth College. I study Large Language Model (LLM) based lifelong autonomous agents for real society.
+ <!-- with a focus on the user-in-the-loop **Autonomous Personal Asset Management**.  -->
+ I dive into compositional representation learning and neural symbolic learning to enhance the long-term memory and hybrid reasoning power of the agent. 
 
 ## Research Interests
 
-- **Lifelong LLM Agents:** Human-in-the-loop lifelong LLM agents for real society.
-<!-- - **Compositional Representation:** Hierarchical and mixed long-term memory system. -->
+- **Lifelong LLM Agents:** Human-in-the-loop lifelong LLM agents that can be applied in real society.
+- **Compositional Representation:** Hierarchical and mixed long-term memory system.
 - **Neural-Symbolic Learning:** Hybrid intelligent system that incorporates expert tools.
-- **Asset Pricing:** Combining LLM and classic methods in asset pricing.
+<!-- - **Asset Pricing:** Combining LLM and classic methods in asset pricing. -->
 
 
 <!-- ## News
