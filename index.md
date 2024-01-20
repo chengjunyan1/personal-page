@@ -8,9 +8,11 @@ I am a second-year Ph.D. student in deep learning at Dartmouth College. I study 
 
 ## Research Interests
 
-- **Lifelong LLM Socio-Agents:** Human-in-the-loop lifelong LLM agents for real society.
-- **Compositional Representation:** Hierarchical and mixed long-term memory system.
+- **Lifelong LLM Agents:** Human-in-the-loop lifelong LLM agents for real society.
+<!-- - **Compositional Representation:** Hierarchical and mixed long-term memory system. -->
 - **Neural-Symbolic Learning:** Hybrid intelligent system that incorporates expert tools.
+- **Asset Pricing:** Combining LLM and classic methods in asset pricing.
+
 
 <!-- ## News
 
