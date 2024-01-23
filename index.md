@@ -20,8 +20,6 @@ My research is centered on developing the Lifelong Large Language Model agents, 
 
 - **[Jan. 2024]** Our paper about Lifelong LLM agents for real society is accepted as Spotlight to ICLR 2024.
 - **[Jan. 2024]** Our paper about Neural-Symbolic representation learning is accepted as Poster to ICLR 2024.
-<!-- - **[Sep. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/ongoing.md %}
 {% include_relative _includes/publications.md %}
