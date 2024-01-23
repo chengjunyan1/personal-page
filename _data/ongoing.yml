@@ -1,0 +1,8 @@
+main:
+
+  - title: "MemAPM: Memory-augmented Large Language Agent for Hybrid Asset Pricing"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: Ongoing
+    conference: To be submitted to ACL 2024
+    image: ./assets/img/teaser_memapm.png
+
