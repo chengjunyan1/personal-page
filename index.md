@@ -36,7 +36,7 @@ These goals may lead to the answer of these mind experiments:
 - **[Jan. 2024]** One paper about Lifelong LLM agents for real society is accepted as Spotlight to ICLR 2024.
 - **[Jan. 2024]** One paper about Neural-Symbolic representation learning is accepted as Poster to ICLR 2024.
 
-{% include_relative _includes/ongoing.md %}
+<!-- {% include_relative _includes/ongoing.md %} -->
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
