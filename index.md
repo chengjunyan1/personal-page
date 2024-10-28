@@ -15,22 +15,4 @@ Those are complicated and multifaceted challenges, while hinge on a foundational
 
 
 
-<!-- 
-## Research Interests
-
-- **Lifelong LLM Agents:** Human-in-the-loop lifelong LLM agents that can be applied in real society.
-- **Compositional Representation:** Hierarchical and mixed long-term memory system.
-- **Neural-Symbolic Learning:** Hybrid intelligent system that incorporates expert tools.
-<!-- - **Asset Pricing:** Combining LLM and classic methods in asset pricing. --> 
-
-<!-- 
-## News
-
-- **[Jan. 2024]** One paper about Lifelong LLM agents for real society is accepted as Spotlight to ICLR 2024.
-- **[Jan. 2024]** One paper about Neural-Symbolic representation learning is accepted as Poster to ICLR 2024. -->
-
-<!-- {% include_relative _includes/ongoing.md %} -->
-
 {% include_relative _includes/publications.md %}
-
-<!-- {% include_relative _includes/services.md %} -->
