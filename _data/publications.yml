@@ -7,7 +7,7 @@ main:
     pdf: https://openreview.net/forum?id=s9z0HzWJJp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
     demo: https://gam-gray.vercel.app/
     image: ./assets/img/teaser_sociodojo.png
-    notes: Accepted as Spotlight
+    notes: Spotlight (5.02% acceptance rate)
 
   - title: "Bridging Neural and Symbolic Representations with Transitional Dictionary Learning"
     authors: Junyan Cheng, Peter Chin
@@ -15,7 +15,16 @@ main:
     conference: International Conference on Learning Representations (ICLR), 2024.
     pdf: https://openreview.net/forum?id=uqxBTcWRnj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
     image: ./assets/img/teaser_tdl.png
-    # notes: Under Review (Avg. Rating 6.50)
+
+  
+  - title: "AAPM: Large Language Model Agent-based Asset Pricing Models"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2409.17266
+    code: https://github.com/chengjunyan1/AAPM
+    pdf: https://arxiv.org/pdf/2409.17266
+    image: ./assets/img/teaser_aapm.png
+
 
   - title: "Physics Informed Synthetic Image Generation for Deep Learning-Based Detection of Wrinkles and Folds"
     authors: Omey M Manyar, Junyan Cheng, Reuben Levine, Vihan Krishnan, Jernej Barbič, Satyandra K Gupta
