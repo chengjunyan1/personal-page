@@ -16,7 +16,7 @@ main:
     pdf: https://openreview.net/forum?id=uqxBTcWRnj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
     image: ./assets/img/teaser_tdl.png
 
-  
+   
   - title: "AAPM: Large Language Model Agent-based Asset Pricing Models"
     authors: Junyan Cheng, Peter Chin
     conference_short: arXiv
