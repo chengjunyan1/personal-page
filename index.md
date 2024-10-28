@@ -30,6 +30,7 @@ Those are complicated and multifaceted challenges, while hinge on a foundational
 - **[Jan. 2024]** One paper about Neural-Symbolic representation learning is accepted as Poster to ICLR 2024. -->
 
 <!-- {% include_relative _includes/ongoing.md %} -->
+
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
