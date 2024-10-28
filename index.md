@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 3rd-year Ph.D. candidate in deep learning and AI at Dartmouth College. I have been interning at the [Allen Institute for AI (Ai2)](https://allenai.org/) since June 2024, working with [Kyle Richardson](https://www.nlp-kyle.com/) on autonomous scientific discovery. My long-term research goal is to explore the foundations of a truly **autonomous** and **evolving** intelligent system—capable of independently operating in complex real-world scenarios over extended periods, with minimal to no human intervention.
+I am a 3rd-year Ph.D. candidate in deep learning and AI at Dartmouth College. I have been interning at the [Allen Institute for AI (Ai2)](https://allenai.org/) since June 2024, working with [Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My long-term research goal is to explore the foundations of a truly **autonomous** and **evolving** intelligent system—capable of independently operating in complex real-world scenarios over extended periods, with minimal to no human intervention.
 
 Consider these "naive" thought experiments which necessitate such a system:
 1. If we could send a *"tabula rasa"* AI back to the era before Homo sapiens, would it re-discover human knowledge?
