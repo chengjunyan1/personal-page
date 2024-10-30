@@ -15,6 +15,7 @@ Those are complicated and multifaceted challenges, while I believe they hinge on
 
 {% include_relative _includes/publications.md %}
 
+
 ## Misc
 
-I like movies, classical music, opera, and hiking (I really enjoy random walks). My favorite directors are Akira Kurosawa and Martin Scorsese.
+I like movies, classical music, opera, and hiking (I like random walks in random places). My favorite directors are Akira Kurosawa and Martin Scorsese.
