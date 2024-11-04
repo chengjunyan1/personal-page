@@ -10,7 +10,7 @@ I am a third-year Ph.D. candidate at Dartmouth College, currently interning at t
 3. Be tasked with developing another planet for 50 years before human arrival?
 *... and so on.*
 
-While multifaceted, these challenges converge on a core question: **How can an AI system consistently extrapolate *new* or *improved* information that extends beyond its "priors" (such as data, inductive biases, and prompts) in *complex* settings?** To answer it, I have explored "Lifelong LLM Agents" for complex social systems ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp), [arXiv](https://arxiv.org/pdf/2409.17266)), "Compositional Neural-Symbolic Representation" ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)). At present, I am focused on using LLMs and evolutionary algorithms to autonomously address scientific problems.
+While multifaceted, these challenges converge on a core question: **How can an AI system consistently extrapolate *new* or *improved* information that extends beyond its "priors" (such as data, inductive biases, and prompts) in *complex* settings?** To answer it, I have explored "Lifelong LLM Agents" for complex social systems ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp), [arXiv](https://arxiv.org/pdf/2409.17266)), "Compositional Neural-Symbolic Representation" ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)). At present, I am focused on using LLM agents and evolutionary algorithms to autonomously address scientific problems like humans.
 
 
 {% include_relative _includes/publications.md %}
