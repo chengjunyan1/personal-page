@@ -9,13 +9,14 @@ I am a 3rd-year Ph.D. candidate in deep learning and AI at Dartmouth College. I 
 2. Could AI safely and robustly be deligated to operate social systems—Economics, Law, Production, etc. —without human oversight?
 3. If an AI *with any priors* were deployed to another planet, could it survive and develop like humans on Earth?
 
-Those are complicated and multifaceted challenges, while I believe they hinge on a foundational question: **Can an AI system constantly extrapolate *new* or *improving* "knowledge" that extends beyond its "priors" (such as data, inductive biases, and prompts) in *complex* open or close-ended settings?** Around this vision, I have explored topics like "Lifelong LLM Agents" for complex social systems ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp), [arXiv](https://arxiv.org/pdf/2409.17266)), "Compositional Neural-Symbolic Representation" ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)), and my latest work on autonomous scientific discovery ().
+Those are complicated and multifaceted challenges, while I believe they hinge on a foundational question: **Can an AI system constantly extrapolate *new* or *improving* "knowledge" that extends beyond its "priors" (such as data, inductive biases, and prompts) in *complex* open or close-ended settings?** Around this vision, I have explored topics like "Lifelong LLM Agents" for complex social systems ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp), [arXiv](https://arxiv.org/pdf/2409.17266)), "Compositional Neural-Symbolic Representation" ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)), and my latest work on autonomous scientific discovery.
 
+At present, I am specifically interested in using LLMs to **autonomously** or **semi-autonomously** with **minimal human intervention** to **solve scientific problems**.
 
 
 {% include_relative _includes/publications.md %}
 
 
-## Misc
+<!-- ## Misc
 
-I like movies, classical music, opera, hiking, and random walks. My favorite directors are Akira Kurosawa and Martin Scorsese. 
+I like movies, classical music, opera, hiking, and random walks. My favorite directors are Akira Kurosawa and Martin Scorsese.  -->
