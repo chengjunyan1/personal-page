@@ -4,7 +4,7 @@ main:
     authors: Junyan Cheng, Peter Chin
     conference_short: ICLR
     conference: International Conference on Learning Representations (ICLR), 2024.
-    pdf: https://openreview.net/forum?id=s9z0HzWJJp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
+    pdf: https://openreview.net/pdf?id=s9z0HzWJJp
     code: https://github.com/chengjunyan1/SocioDojo
     demo: https://gam-gray.vercel.app/
     image: ./assets/img/teaser_sociodojo.png
@@ -14,7 +14,7 @@ main:
     authors: Junyan Cheng, Peter Chin
     conference_short: ICLR
     conference: International Conference on Learning Representations (ICLR), 2024.
-    pdf: https://openreview.net/forum?id=uqxBTcWRnj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
+    pdf: https://openreview.net/pdf?id=uqxBTcWRnj
     code: https://github.com/chengjunyan1/TDL
     image: ./assets/img/teaser_tdl.png
 
