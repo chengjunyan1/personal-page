@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a third-year Ph.D. candidate at Dartmouth College, currently interning at the [Allen Institute for AI (AI2)](https://allenai.org/) with [Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My research is driven by the goal of developing and understanding the foundations of **autonomous** and **evolving** intelligent systems capable of *robustly* tackling *complex* real-world problems. Here are some thought experiments that imply this vision—how can we design systems that can:
-1. Rediscover human *symbolic* knowledge from *"tabula rasa"* if sent back to the pre-sapien era?
+1. Rediscover human (symbolic) knowledge from *"tabula rasa"* if sent back to the pre-sapien era?
 2. Be safely entrusted with social systems—economics, law, production, and even academia?
 3. Be tasked with developing another planet for 50 years before human arrival?
 *... and so on.*
