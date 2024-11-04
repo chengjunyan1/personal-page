@@ -10,7 +10,7 @@ I am a third-year Ph.D. candidate at Dartmouth College, currently interning at t
 3. Be tasked with developing another planet for 50 years before human arrival?
 *... and so on.*
 
-While multifaceted, they converge on a core question: **How to consistently extrapolate *new* or *improved* information that extends beyond the "priors" (e.g., data, inductive biases, and prompts) in *complex* settings?** To answer it, I am exploring **Lifelong LLM Agents** ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp), [arXiv](https://arxiv.org/pdf/2409.17266), for social dynamics), compositional **Neural-Symbolic Learning** ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)), and **Automated Scientific Problem-Solving** with LLMs and evolutionary algorithms at present.
+While multifaceted, they converge on a core question: **How to consistently extrapolate *new* or *improved* information that extends beyond the "priors" (e.g., data, inductive biases, and prompts) in *complex* settings?** To answer it, I am exploring **Lifelong LLM Agents** ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp), [arXiv](https://arxiv.org/pdf/2409.17266), for societal dynamics), compositional **Neural-Symbolic Learning** ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)), and **Automated Scientific Problem-Solving** with LLMs and evolutionary algorithms at present.
 
 
 {% include_relative _includes/publications.md %}
@@ -20,5 +20,3 @@ While multifaceted, they converge on a core question: **How to consistently extr
 ## Miscellaneous
 
 I love movies, classical music, opera, and computer games (mainly strategy and RPGs like *Total War*, *Civilization*, *StarCraft*, *Baldur's Gate*, and *Sekiro*), as well as hiking. My favorite directors include Akira Kurosawa and Martin Scorsese. One of my favorite pastimes is taking really long, random walks (in cities, forests, mountains, etc.).
-
-
