@@ -38,7 +38,7 @@ main:
     notes: Best Paper Award at ASME IDETC-CIE 2022
 
   - title: "Multimodal Phased Transformer for Sentiment Analysis"
-    authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm, Mohammad Soleymani
+    authors: Junyan Cheng*, Iordanis Fostiropoulos*, Barry Boehm, Mohammad Soleymani
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing (EMNLP Long Paper), 2021.
     pdf: https://aclanthology.org/2021.emnlp-main.189.pdf
@@ -63,7 +63,7 @@ main:
     image: ./assets/img/teaser_gnt.png
 
   - title: "Predicting microRNA-disease associations using bipartite local models and hubness-aware regression"
-    authors: Xing Chen, Junyan Cheng, Jun Yin
+    authors: Xing Chen*, Junyan Cheng*, Jun Yin
     conference_short: RNA biology
     conference: RNA biology, 2018, VOL. 15, NO. 9, 1192-1205
     pdf: https://www.tandfonline.com/doi/pdf/10.1080/15476286.2018.1517010
