@@ -19,4 +19,4 @@ While multifaceted, they converge on a core question: **How to consistently extr
 
 ## Miscellaneous
 
-I love movies, classical music, opera, and computer games (mainly strategy and RPGs like *Total War*, *Civilization*, *StarCraft*, *Baldur's Gate*, and *Sekiro*), as well as hiking. My favorite directors include Akira Kurosawa and Martin Scorsese. One of my favorite pastimes is taking really long, random walks (in cities, forests, mountains, etc.).
+I love movies, classical music, opera, computer games, hiking, and random walks (literally). My favorite directors include Akira Kurosawa, Martin Scorsese, Kitano Takeshi, and Quentin Tarantino.
