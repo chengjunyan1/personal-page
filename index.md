@@ -20,7 +20,7 @@ While multifaceted, they converge on a core question: **How to stably extrapolat
 ## Miscellaneous
 
 <p align="center">
-  <img src="assets/img/triangle_s.png" alt="My conceptual division of intelligence" width="50%">
+  <img src="assets/img/triangle_s.png" alt="My conceptual division of intelligence" width="80%">
 </p>
 
 
