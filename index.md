@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third-year Ph.D. candidate at Dartmouth College, I interned 6 months at the [Allen Institute for AI (AI2)](https://allenai.org/) under [Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My research is driven by the goal of developing and understanding the foundations of **autonomous** and **trustworthy** intelligent systems capable of *robustly* tackling *complex* real-world problems. These systems are interactable, personalizable, and large-scale long-term deployable. Imagine these future scenarios that may be made possible with such systems as foundations (difficulty ascending):
+I am a third-year Ph.D. candidate at Dartmouth College, I interned 6 months at the [Allen Institute for AI (Ai2)](https://allenai.org/) under [Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My research is driven by the goal of developing and understanding the foundations of **autonomous** and **trustworthy** intelligent systems capable of *robustly* tackling *complex* real-world problems. These systems are interactable, personalizable, and large-scale long-term deployable. Imagine these future scenarios that may be made possible with such systems as foundations (difficulty ascending):
 1. Be safely entrusted with social systems—economics, law, finance, production, and research.
 2. Developing and sustaining another planet independently for 50 years before human arrival.
 3. Rediscover human (symbolic) knowledge from *"tabula rasa"* if sent back to the pre-Sapien era.
