@@ -20,7 +20,7 @@ While multifaceted, they converge on a core question: **How to stably extrapolat
 ## Miscellaneous
 
 
-![My conceptual division of intelligence](assets/img/triangle_s.png)
+<img src="assets/img/triangle_s.png" alt="My conceptual division of intelligence" width="50%">
 
 
 I love movies, classical music, opera, computer games, hiking, and random walks. My favorite directors include Stanley Kubrick, Akira Kurosawa, and Martin Scorsese. 
