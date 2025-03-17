@@ -21,8 +21,8 @@ main:
    
   - title: "AAPM: Large Language Model Agent-based Asset Pricing Models"
     authors: Junyan Cheng, Peter Chin
-    conference_short: arXiv
-    conference: arXiv preprint, arXiv:2409.17266
+    conference_short: FinAI@ICLR
+    conference: ICLR 2025 Advances in Financial AI Workshop
     pdf: https://arxiv.org/pdf/2409.17266
     code: https://github.com/chengjunyan1/AAPM
     image: ./assets/img/teaser_aapm.png
