@@ -27,3 +27,4 @@ To answer it, my work focuses on two core lines: 1) **Neurosymbolic Learning**, 
 
 
 I love traveling, photography, and adventures. In my spare time, I enjoy movies and operas. My favorite directors are Stanley Kubrick and Akira Kurosawa. I have a broad interest in history, classical music, and art, especially architecture, although I am not an expert.
+I have been interested in how to blur the boundary between photography and classical paintings in a harmonious way, which are usually regarded as two opposites. Barry Lyndon offers a good example, that's also my favorite movie. Overall, I wish to explore the world in my own steps and capture it with light and shadow while infusing humanistic beauty.
