@@ -8,6 +8,7 @@ I am a third-year Ph.D. candidate at Dartmouth College, with full funding from [
 1. *Specialized AGI (my goal)*: Be safely entrusted with social systems—economics, law, finance, production, and research.
 2. *Independant AGI (my imagination)*: Developing and sustaining another planet independently for 50 years before human arrival...
 3. *"True" AGI (my standard)*: Rediscover human-level (symbolic) knowledge and beyond from *"tabula rasa"* even if sent back to the pre-Sapien era.
+   
 *... and so on.*
 
 To answer it, my work focuses on two weaved ideas: 1) **Neurosymbolic Learning**, including compositional representation ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)), program synthesis, neurosymbolic programming, and 2) **Phylogenetic Intelligence**, such as Lifelong Multi LLM Agents ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp)), evolutionary and game-theoretic methods, online ensemble learning. Around complex real-world applications, like Automated Scientific Problem-Solving at Ai2, social science ([FinAI@ICLR'25](https://arxiv.org/pdf/2409.17266) for asset pricing). In the past, I have also worked on robotics, multimodal learning, and deep learning for code.
