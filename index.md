@@ -26,4 +26,4 @@ To answer it, my work focuses on two core lines: 1) **Neurosymbolic Learning**, 
 </p>
 
 
-I love traveling, photography, and adventures. In my spare time, I enjoy movies and operas. My favorite directors are Stanley Kubrick and Akira Kurosawa. I have a broad interest in history, classical music and art, especially architecture, although I am not an expert.
+I love traveling, photography, and adventures. In my spare time, I enjoy movies and operas. My favorite directors are Stanley Kubrick and Akira Kurosawa. I have a broad interest in history, classical music, and art, especially architecture, although I am not an expert.
