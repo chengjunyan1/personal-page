@@ -18,7 +18,7 @@ To answer it, my work focuses on two weaved ideas: 1) **Neurosymbolic Learning**
 
 
 
-## Miscellaneous
+<!-- ## Miscellaneous
 
 
 I love traveling, photography, and hiking/adventures with friends! In my spare time, I watch movies and operas. My favorite directors are Stanley Kubrick and Akira Kurosawa. I have a deep and broad interest in history, classical music, and art, especially architecture, although I am not an expert.
@@ -28,4 +28,4 @@ Besides, I have also traded US stocks and other financial derivatives for a long
 
 <p align="center">
   <img src="assets/img/triangle_s.png" alt="My conceptual division of intelligence" width="67%">
-</p>
+</p> -->
