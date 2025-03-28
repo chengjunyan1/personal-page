@@ -3,7 +3,7 @@ main:
   - title: "Empirical Asset Pricing with Large Language Model Agents"
     authors: Junyan Cheng, Peter Chin
     conference_short: FinAI@ICLR
-    conference: ICLR 2025 Advances in Financial AI Workshop
+    conference: ICLR 2025 Advances in Financial AI Workshop (Long Paper track), 2025.
     pdf: https://arxiv.org/pdf/2409.17266
     code: https://github.com/chengjunyan1/AAPM
     image: ./assets/img/teaser_aapm.png
