@@ -21,7 +21,7 @@ To answer it, my work focuses on two weaved ideas: 1) **Neurosymbolic Learning**
 <!-- ## Miscellaneous
 
 
-I love traveling, photography, and hiking/adventures with friends! In my spare time, I watch movies and operas. My favorite directors are Stanley Kubrick and Akira Kurosawa. I have a deep and broad interest in history, classical music, and art, especially architecture, although I am not an expert.
+I love traveling, photography, and hiking/adventures with friends! In my spare time, I watch movies, operas, and games. My favorite directors are Stanley Kubrick and Akira Kurosawa. I have a deep and broad interest in history, classical music, and art, especially architecture, although I am not an expert.
 I have been enjoying the blurring of the boundary between photography and classical paintings in a harmonious way, which are usually regarded as two opposites, realistic vs romantic. Barry Lyndon offers a good example, that's also my favorite movie. Overall, I wish to explore the world and capture it with light and shadow while infusing humanistic beauty. 
 Besides, I have also traded US stocks and other financial derivatives for a long time since my freshman, starting with my undergraduate investment club. 
 
