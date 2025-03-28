@@ -1,5 +1,13 @@
 main:
 
+  - title: "Empirical Asset Pricing with Large Language Model Agents"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: FinAI@ICLR
+    conference: ICLR 2025 Advances in Financial AI Workshop
+    pdf: https://arxiv.org/pdf/2409.17266
+    code: https://github.com/chengjunyan1/AAPM
+    image: ./assets/img/teaser_aapm.png
+
   - title: "SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series"
     authors: Junyan Cheng, Peter Chin
     conference_short: ICLR
@@ -17,16 +25,6 @@ main:
     pdf: https://openreview.net/pdf?id=uqxBTcWRnj
     code: https://github.com/chengjunyan1/TDL
     image: ./assets/img/teaser_tdl.png
-
-   
-  - title: "AAPM: Large Language Model Agent-based Asset Pricing Models"
-    authors: Junyan Cheng, Peter Chin
-    conference_short: FinAI@ICLR
-    conference: ICLR 2025 Advances in Financial AI Workshop
-    pdf: https://arxiv.org/pdf/2409.17266
-    code: https://github.com/chengjunyan1/AAPM
-    image: ./assets/img/teaser_aapm.png
-
 
   - title: "Physics Informed Synthetic Image Generation for Deep Learning-Based Detection of Wrinkles and Folds"
     authors: Omey M Manyar, Junyan Cheng, Reuben Levine, Vihan Krishnan, Jernej Barbič, Satyandra K Gupta
