@@ -6,7 +6,9 @@ layout: homepage
 
 I am a third-year Ph.D. candidate at Dartmouth College, fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, hosted by [Dr. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
 I am currently a research intern at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), working with [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***.
-I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. About my research:
+I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
+
+About my research:
 * **Goal:** **Autonomous Complex Problem Solving**, build intelligent systems that can *stably*, *trustworthily*, and *scalably* solve complex real-world problems with long-term large-scale deployment.
 * **Approach:** **Neural Symbolic Program Synthesis**, I combine the powerful LLM agent synthesizers with symbolic approaches, including logical, program analysis, and optimization methods.
 * **Applications:** I am especially interested in *Financial Economics*, *Software Engineering*, *Scientific Discovery*, and *Robotics*.
