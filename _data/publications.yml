@@ -3,7 +3,7 @@ main:
   - title: "Language Modeling by Language Models"
     authors: Junyan Cheng, Peter Clark, Kyle Richardson
     conference_short: arXiv
-    conference: arXiv, AISD@NAACL2025
+    conference: arXiv preprint, AISD@NAACL2025
     pdf: https://arxiv.org/abs/2506.20249
     demo: https://genesys.allen.ai/
     code: https://github.com/allenai/genesys
