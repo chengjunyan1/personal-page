@@ -4,6 +4,16 @@ layout: homepage
 
 ## About Me
 
+I am a third-year Ph.D. candidate at Dartmouth College, fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, hosted by [Dr. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
+I am currently a research intern at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), working with [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***generative softwares***.
+I interned for 6 months at the [Allen Institute for AI (Ai2)](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. About my research:
+* Focus: Robust Complex Problem Solving, my goal is to allow intelligent systems to *autonomously*, *trustworthily*, and *scalably* solve complex real-world problems.
+* Approach: Neural Symbolic Program Synthesis, I combine the powerful LLM agent synthesizers with symbolic approaches, including logical, program analysis, and optimization methods.
+* Applications: I am especially interested in Financial Economics, Software Engineering, Scientific Discovery, and Robotics.
+
+
+
+<!--
 I am a third-year Ph.D. candidate at Dartmouth College, with full funding from [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative program, hosted by [Dr. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). I interned for 6 months at the [Allen Institute for AI (Ai2)](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My research is driven by the goal of developing and understanding the foundations of **autonomous**, **trustworthy**, and **scalable** intelligent systems capable of *robustly* tackling *complex* real-world problems. It is based on my visions of the future relationship between AI, humans, and the world, that may be made possible with such systems as foundations (difficulty ascending):
 1. *Specialized AGI (my goal)*: Be safely entrusted with social systems—economics, law, finance, production, and research.
 2. *Independant AGI (my "imagination")*: Developing and sustaining another planet independently for 50 years before human arrival...
@@ -12,6 +22,7 @@ I am a third-year Ph.D. candidate at Dartmouth College, with full funding from [
 *... and so on.*
 
 To answer it, my work focuses on two weaved ideas: 1) **Neurosymbolic Learning**, including compositional representation ([ICLR'24 Poster](https://openreview.net/pdf?id=uqxBTcWRnj)), program synthesis, neurosymbolic programming, and 2) **Phylogenetic Intelligence**, such as Lifelong Multi LLM Agents ([ICLR'24 Spotlight](https://openreview.net/pdf?id=s9z0HzWJJp)), evolutionary and game-theoretic methods, online ensemble learning. Around complex real-world applications, like Automated Scientific Problem-Solving at Ai2, social science ([FinAI@ICLR'25](https://arxiv.org/pdf/2409.17266) for asset pricing). In the past, I have also worked on robotics, multimodal learning, and deep program understanding & analysis.
+-->
 
 
 {% include_relative _includes/publications.md %}
