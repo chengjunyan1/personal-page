@@ -13,7 +13,7 @@ About my research:
 * **Approach:** **Neural Symbolic Program Synthesis**, I combine the powerful LLM agent synthesizers with symbolic approaches, including logical, program analysis, and optimization methods.
 * **Applications:** I am especially interested in *Financial Economics*, *Software Engineering*, *Scientific Discovery*, and *Robotics*.
 
-
+I also seriously care about how AI can make a fairer, Pareto-efficient society, as this is not simply a problem of better automation or higher productivity.
 
 <!--
 I am a third-year Ph.D. candidate at Dartmouth College, with full funding from [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative program, hosted by [Dr. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). I interned for 6 months at the [Allen Institute for AI (Ai2)](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My research is driven by the goal of developing and understanding the foundations of **autonomous**, **trustworthy**, and **scalable** intelligent systems capable of *robustly* tackling *complex* real-world problems. It is based on my visions of the future relationship between AI, humans, and the world, that may be made possible with such systems as foundations (difficulty ascending):
