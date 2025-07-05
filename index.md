@@ -8,7 +8,7 @@ I am a third-year Ph.D. candidate at Dartmouth College, fully funded by [PhD Inn
 I am currently a research intern at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), working with [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***.
 I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
-### About my research
+### About My Research
 
 * **Goal:** **Autonomous Complex Problem Solving**, build intelligent systems that can *stably*, *trustworthily*, and *scalably* handle complex real-world scenarios in long-term large-scale deployments.
 * **Approach:** **Neural Symbolic Program Synthesis**, I combine the powerful LLM-agentic synthesizers with symbolic approaches, including logic, programming language, and optimization methods.
