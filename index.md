@@ -10,9 +10,9 @@ I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allena
 
 ### About My Research
 
-* **Goal:** **Autonomous Complex Problem-Solving**, build intelligent systems that can *robustly*, *trustworthily*, and *scalably* handle real-society scenarios in long-term large-scale deployments.
-* **Approach:** **Neural-Symbolic Agentic Systems**, I combine the powerful **LLM-agentic** systems with symbolic approaches, including logic, programming language, and optimization methods.
-* **Applications:** I am especially interested in *Financial **Economics***, *Scientific Discovery*, *Systems and Software Engineering*, and *Robotics*.
+* **Goal:** Autonomous systems that can *robustly*, *trustworthily*, and *scalably* take over critical real-society domains in long-term large-scale deployments.
+* **Methodology:** ***Hybrid and Neural-symbolic AI***, enhancing **LLM-agentic** systems with symbolic approaches, such as statistics, logic, programming, and optimization.
+* **Applications:** I am especially interested in *Financial **Economics***, *Scientific Discovery*, and *Robotic Systems*.
 
 I seriously care about how AI can make a fairer, happier, and efficient society, as it is not simply a problem of better automation or higher productivity.
 
