@@ -2,12 +2,13 @@ main:
 
   - title: "Language Modeling by Language Models"
     authors: Junyan Cheng, Peter Clark, Kyle Richardson
-    conference_short: arXiv
-    conference: arXiv preprint, AISD@NAACL2025
+    conference_short: NeurIPS
+    conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
     pdf: https://arxiv.org/abs/2506.20249
     demo: https://genesys.allen.ai/
     code: https://github.com/allenai/genesys
     image: ./assets/img/teaser_genesys.png
+    notes: Spotlight (3.19% acceptance rate)
     
   - title: "Empirical Asset Pricing with Large Language Model Agents"
     authors: Junyan Cheng, Peter Chin
