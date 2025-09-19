@@ -48,7 +48,7 @@ main:
   - title: "Multimodal Phased Transformer for Sentiment Analysis"
     authors: Junyan Cheng*, Iordanis Fostiropoulos*, Barry Boehm, Mohammad Soleymani
     conference_short: EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP Long Paper), 2021.
+    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2021.
     pdf: https://aclanthology.org/2021.emnlp-main.189.pdf
     code: https://github.com/chengjunyan1/SP-Transformer
     image: ./assets/img/teaser_spt.png
