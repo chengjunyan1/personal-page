@@ -8,7 +8,7 @@ I am a third-year Ph.D. candidate at Dartmouth College, fully funded by [PhD Inn
 I am currently a research intern in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***.
 I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
-I have built multiple complex LLM-agentic systems: [**Genesys** (NeurIPS'25 Spotlight)](https://genesys.allen.ai), [**Apeiron** (at MSR)](https://amorphware.com), **Analytica**, and [**SocioDojo** (ICLR'24 Spotlight)](https://gam-gray.vercel.app/).
+I have built multiple complex LLM-agentic systems: **Analytica**, [**Genesys** (NeurIPS'25 Spotlight)](https://genesys.allen.ai), [**Apeiron** (at MSR)](https://amorphware.com), and [**SocioDojo** (ICLR'24 Spotlight)](https://gam-gray.vercel.app/).
 
 ### About My Research
 
