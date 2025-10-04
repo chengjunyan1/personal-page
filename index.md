@@ -8,15 +8,20 @@ I am a fourth-year Ph.D. candidate at Dartmouth College, fully funded by [PhD In
 I did a summer research internship in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***.
 I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
-🌌 I built multiple complex LLM-agentic systems: **Analytica**, [**Genesys** (NeurIPS'25 Spotlight)](https://genesys.allen.ai), [**Apeiron** (at MSR)](https://amorphware.com), and [**SocioDojo** (ICLR'24 Spotlight)](https://gam-gray.vercel.app/).
-
 ### About My Research
 
+🌌 I love building complex LLM-agentic systems: **Analytica**, [**Genesys** (NeurIPS'25 Spotlight)](https://genesys.allen.ai), [**Apeiron** (at MSR)](https://amorphware.com), and [**SocioDojo** (ICLR'24 Spotlight)](https://gam-gray.vercel.app/).
+My goal is to achieve autonomous systems that can *robustly*, *trustworthily*, and *scalably* take over critical real-society domains in long-term large-scale deployments, with a holographical perception of the world dynamics. I am obsessed with ***Hybrid and Neural-symbolic AI*** that enhances NNs and LLMs with symbolic approaches, such as statistics, logic, programming, and optimization. I am especially interested in *Financial **Economics***, *Scientific Discovery*, and *Robotics*.
+
+
+<!--
 * **Goal:** Autonomous systems that can *robustly*, *trustworthily*, and *scalably* take over critical real-society domains in long-term large-scale deployments.
 * **Methodology:** ***Hybrid and Neural-symbolic AI***, enhancing **LLM-agentic** systems with symbolic approaches, such as statistics, logic, programming, and optimization.
 * **Applications:** I am especially interested in *Financial **Economics***, *Scientific Discovery*, and *Robotics*.
 
 I seriously care about how AI can make a fairer, happier, and efficient society, as it is not simply a problem of better automation or higher productivity.
+
+-->
 
 <!--
 I am a third-year Ph.D. candidate at Dartmouth College, with full funding from [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative program, hosted by [Dr. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). I interned for 6 months at the [Allen Institute for AI (Ai2)](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. My research is driven by the goal of developing and understanding the foundations of **autonomous**, **trustworthy**, and **scalable** intelligent systems capable of *robustly* tackling *complex* real-world problems. It is based on my visions of the future relationship between AI, humans, and the world, that may be made possible with such systems as foundations (difficulty ascending):
