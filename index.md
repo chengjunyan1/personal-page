@@ -16,7 +16,7 @@ I build complex LLM-agentic systems across forecasting, scientific discovery, so
     <div class="project-card__content">
       <h4 class="project-card__title">Analytica</h4>
       <p class="project-card__description">Robust and efficient wide and deep LLM-agentic analysis and forecasting with soft logic and parallel Jupyter Notebook analysts.</p>
-      <span class="project-card__meta">Under review. Webapp coming soon</span>
+      <span class="project-card__meta">Under review. Webapp coming soon!</span>
     </div>
   </div>
   <a class="project-card" role="listitem" href="https://genesys.allen.ai" target="_blank" rel="noopener">
