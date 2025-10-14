@@ -5,27 +5,25 @@ layout: homepage
 ## About Me
 
 I am a fourth-year Ph.D. candidate at Dartmouth College, fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, hosted by [Dr. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
-I did a summer research internship in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***.
-I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
+I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***, and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
 ### About My Research
-
-I build complex LLM-agentic systems across scientific discovery, software co-design, and socio-technical reasoning.
+I build complex LLM-agentic systems across forecasting, scientific discovery, software design, and sociotal dynamics. Below are ***live demos*** of my flagship systems (click to explore):
 
 <div class="project-carousel" role="list" aria-label="Flagship systems">
   <div class="project-card project-card--analytica" role="listitem">
     <div class="project-card__media" aria-hidden="true"></div>
     <div class="project-card__content">
       <h4 class="project-card__title">Analytica</h4>
-      <p class="project-card__description">Agentic research analyst that orchestrates modeling, simulation, and reporting for complex investigations.</p>
-      <span class="project-card__meta">Webapp coming soon</span>
+      <p class="project-card__description">Robust and efficient wide and deep LLM-agentic analysis and forecasting with soft logic and parallel Jupyter Notebook analysts.</p>
+      <span class="project-card__meta">Under review. Webapp coming soon</span>
     </div>
   </div>
   <a class="project-card" role="listitem" href="https://genesys.allen.ai" target="_blank" rel="noopener">
     <div class="project-card__media project-card__media--genesys" aria-hidden="true"></div>
     <div class="project-card__content">
       <h4 class="project-card__title">Genesys</h4>
-      <p class="project-card__description">Autonomous scientific discovery suite that bootstraps hypotheses and lab workflows.</p>
+      <p class="project-card__description">Distributed discovery system for novel language model architectures with autonomous design and evaluation.</p>
       <span class="project-card__meta">NeurIPS'25 Spotlight</span>
     </div>
   </a>
@@ -33,7 +31,7 @@ I build complex LLM-agentic systems across scientific discovery, software co-des
     <div class="project-card__media project-card__media--apeiron" aria-hidden="true"></div>
     <div class="project-card__content">
       <h4 class="project-card__title">Apeiron</h4>
-      <p class="project-card__description">Hybrid LLM-agent platform exploring open-ended system design and evaluation at MSR.</p>
+      <p class="project-card__description">Scalable and autonomous full-lifecycle demand-optimized app synthesizer with multi-thread CUA evaluators.</p>
       <span class="project-card__meta">Built at Microsoft Research</span>
     </div>
   </a>
@@ -41,13 +39,14 @@ I build complex LLM-agentic systems across scientific discovery, software co-des
     <div class="project-card__media project-card__media--sociodojo" aria-hidden="true"></div>
     <div class="project-card__content">
       <h4 class="project-card__title">SocioDojo</h4>
-      <p class="project-card__description">Interactive multi-agent environment for socio-economic simulation and policy evaluation.</p>
+      <p class="project-card__description">LLM agentic system and environment for lifelong societal modeling and analysis with news feed and real-time data integration.</p>
       <span class="project-card__meta">ICLR'24 Spotlight</span>
     </div>
   </a>
 </div>
 
-My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics. I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we need symbols? it's like why we need laws!*). 
+My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics. I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we still need symbols? it's like why we need laws!*). 
+
 
 <!--
 I am especially interested in *Social Science*, *Scientific Discovery*, and *Robotics*.
