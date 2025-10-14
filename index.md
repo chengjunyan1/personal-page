@@ -11,7 +11,7 @@ I interned for 6 months at the [**Allen Institute for AI (Ai2)**](https://allena
 ### About My Research
 
 I build complex LLM-agentic systems: **Analytica** (webapp coming soon), [**Genesys** (NeurIPS'25 Spotlight)](https://genesys.allen.ai), [**Apeiron** (at MSR)](https://amorphware.com), and [**SocioDojo** (ICLR'24 Spotlight)](https://gam-gray.vercel.app/).
-My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics. I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we need symbols?* it's like why we need laws!). 
+My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics. I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we need symbols? it's like why we need laws!*). 
 
 <!--
 I am especially interested in *Social Science*, *Scientific Discovery*, and *Robotics*.
