@@ -43,7 +43,7 @@ main:
     pdf: https://www.researchgate.net/profile/Omey-Manyar/publication/369142564_PHYSICS_INFORMED_SYNTHETIC_IMAGE_GENERATION_FOR_DEEP_LEARNING_BASED_DETECTION_OF_WRINKLES_AND_FOLDS/links/640b7df7a1b72772e4eb1120/PHYSICS-INFORMED-SYNTHETIC-IMAGE-GENERATION-FOR-DEEP-LEARNING-BASED-DETECTION-OF-WRINKLES-AND-FOLDS.pdf
     code: https://github.com/RROS-Lab/DeepSynthDefectDetector
     image: ./assets/img/teaser_layup.png
-    notes: Best Paper Award at ASME IDETC-CIE 2022
+    notes: Best Paper Award at ASME IDETC-CIE 2022 (contribution: vision and generation pipelines) 
 
   - title: "Multimodal Phased Transformer for Sentiment Analysis"
     authors: Junyan Cheng*, Iordanis Fostiropoulos*, Barry Boehm, Mohammad Soleymani
